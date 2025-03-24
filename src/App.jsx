@@ -33,7 +33,7 @@ function App() {
                 </div>
                 <div className="btn-container">
                     <button onClick={prevClick} disabled={step === 0}>
-                        prev
+                        Go back
                     </button>
                     <button
                         onClick={nextClick}
